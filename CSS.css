@@ -302,7 +302,7 @@ main section p {
 }
 .service-item img {
     width: 100%;
-    max-height: 180px; /* Consistent image height */
+    max-height: 277px; /* Consistent image height */
     object-fit: cover;
     margin-bottom: 15px;
     border-radius: 5px;
